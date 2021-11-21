@@ -1,4 +1,4 @@
-## 🇻🇪 Hola, soy un Desarrollador Frontend y Bienvenidos a mi perfil.! 🇻🇪
+## 🇻🇪 Hola, Bienvenidos a mi perfil.! 🇦🇷
 
 > 🔊 Hola mi nombre es *Darwin Sierra* soy una persona autodidacta, Graduado T.S.U en Informática, aun estoy muy interesado en aprender nuevas tecnologías como nuevos lenguajes de programación, patrones de diseño, networking, entre otros. Actualmente trabajo como Desarrollador Frontend freelancer, y estoy buscando una oportunidad en un nuevo ambiente laboral estable. 💻 🕵️
 
